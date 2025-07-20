@@ -5,6 +5,7 @@
 ## LoadOnDemand: 1
 ## SavedVariables: SpecialTalentPlannedSaved SpecialTalentFrameSaved
 ## First created: Apr 2006
+## OptionalDeps: pfUI
 ..\..\FrameXML\Fonts.xml
 ..\..\FrameXML\UIPanelTemplates.xml
 ..\..\FrameXML\CharacterFrameTemplates.xml
@@ -12,3 +13,4 @@
 WebData.lua
 localization.lua
 SpecialTalentUI.xml
+TurtleSkin.lua
